@@ -14,7 +14,4 @@ Este projeto foi desenvolvido como parte da conclusão dos módulos de HTML e CS
   - Mobile-First
   - Responsividade
   - Animações
-
-## Links
-
-- [Deploy](https://emanuelquintino.github.io/RentCar-Enterprise/)
+  
